@@ -1,0 +1,10 @@
+var a = parseInt(prompt("Enter the a value:"));
+var b = parseInt(prompt("Enter the b value:"));
+a+=b;
+alert(a);
+a-=b;
+alert(a);
+a/=b;
+alert(a);
+a%=b;
+alert(a);
